@@ -7,7 +7,7 @@
 
 - name: Import mongo installation tasks
   import_tasks: install_mongo.yml
-  become: yes
+  become: true
 
 - name: Import mongo configuration tasks
   import_tasks: config_mongo.yml

@@ -3,3 +3,10 @@
 .molecule 
 .cache 
 .pytest_cache
+credentials.json
+.venv
+.vscode
+google_compute_engine
+google_compute_engine.pub
+secrets.tar
+*.retry

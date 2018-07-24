@@ -1,6 +1,8 @@
 db
 =========
 
+[![Build Status](https://travis-ci.org/loktionovam/db.svg?branch=master)](https://travis-ci.org/loktionovam/db)
+
 Simple mongodb role
 
 Requirements
